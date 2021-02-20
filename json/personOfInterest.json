@@ -10,7 +10,7 @@
 	"race":"W",
 	"dateOfBirth":"03/12/70",
 	"relationship":"Neighbor of victim",
-	"address":"1234 Street St, Columbia SC, 29205",
+	"address":"1234 Street St, Columbia SC, 29205"
     }, {
         "firstName":"Cynthia",
         "lastName":"Bologna",
@@ -22,6 +22,6 @@
 	"race":"W",
 	"dateOfBirth":"10/26/73",
 	"relationship":"Neighbor of victim",
-	"address":"1234 Street St, Columbia SC, 29205",
+	"address":"1234 Street St, Columbia SC, 29205"
     }
 ]
