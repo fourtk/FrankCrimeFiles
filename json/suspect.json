@@ -1,0 +1,37 @@
+[
+    {
+        "id":123456,
+        "firstName":"Tony",
+        "lastName":"Bologna",
+        "gender":"M",
+        "race":"W",
+        "age":51,
+        "eyeColor":"Green",
+        "currentHairColor":"black",
+        "naturalHairColor":"black",
+        "height":"6'1\"",
+        "weight":220,
+        "tattooDescription":"'Do not touch my family' on forearm",
+        "physicalDeformeties":"stab wound on lower abdomin",
+        "nicknames":"Mr. T, Don T",
+        "footSize": 11.5,
+        "clothesSeenIn": "Suit and tie, diamond studded rolex"
+    }, {
+        "id":234567,
+        "firstName":"Cynthia",
+        "lastName":"Bologna",
+        "gender":"F",
+        "race":"W",
+        "age":48,
+        "eyeColor":"Hazel",
+        "currentHairColor":"black",
+        "naturalHairColor":"black",
+        "height":"5'8\"",
+        "weight":150,
+        "tattooDescription":"N/A",
+        "physicalDeformeties":"Burn mark on left cheek",
+        "nicknames":"Mrs. T",
+        "footSize": 9.5,
+        "clothesSeenIn": "White dress"
+    }
+]

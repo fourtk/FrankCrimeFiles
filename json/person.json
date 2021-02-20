@@ -1,0 +1,25 @@
+[
+    {
+        "id":123456,
+        "firstName":"Tony",
+        "lastName":"Bologna",
+        "gender":"M",
+        "race":"W",
+        "age":51,
+        "eyeColor":"Green",
+        "currentHairColor":"black",
+        "naturalHairColor":"black",
+        "associated":"Cynthia Bologna, George Smith, Sally Smith, witnessNo.11111"
+    }, {
+        "id":234567,
+        "firstName":"Cynthia",
+        "lastName":"Bologna",
+        "gender":"F",
+        "race":"W",
+        "age":48,
+        "eyeColor":"Hazel",
+        "currentHairColor":"black",
+        "naturalHairColor":"black",
+        "associated":"Tony Bologna, George Smith, Sally Smith, witnessNo.11111"
+    }
+]

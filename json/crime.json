@@ -1,0 +1,17 @@
+[
+    {
+        "caseId":77777,
+        "location":"Olive Garden, 123 Wildwood Street New York, NY",
+        "dateCommited":"01/20/2020",
+        "victims":"George Smith, Sally Smith",
+        "witnesses":11111,
+        "personsOfInterest":"Tony Bologna, Cynthia Bologna",
+        "suspects":"Tony Bologna, Cynthia Bologna",
+        "users":"N/A",
+        "typeOfCrime":"Aggravated Assault, Illegal Possesion of firearm",
+        "crimeLevel":"N/A",
+        "hasVehicle":true,
+        "vehicleId":"LEQ827",
+        "isClosed":true
+    }
+]

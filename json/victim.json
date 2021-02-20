@@ -1,0 +1,31 @@
+[
+    {
+        "inHospital":true,
+        "medicalHistory":"Broken arm 04/28/1997, Gunshot wound 01/20/2020",
+        "relationshipWithSuspect":"Shot by Tony Bologna",
+        "id":1234,
+        "firstName":"George",
+        "lastName":"Smith",
+        "gender":"M",
+        "race":"W",
+        "age":30,
+        "eyeColor":"blue",
+        "currentHairColor":"blonde",
+        "naturalHairColor":"blonde",
+        "witnesses":11111
+    }, {
+        "inHospital":false,
+        "medicalHistory":"N/A",
+        "relationshipWithSuspect":"Assaulted by Cynthia Bologna 01/20/2020",
+        "id":1235,
+        "firstName":"Sally",
+        "lastName":"Smith",
+        "gender":"F",
+        "race":"W",
+        "age":28,
+        "eyeColor":"brown",
+        "currentHairColor":"brunette",
+        "naturalHairColor":"brunette",
+        "witnesses":11111
+    }
+]
