@@ -21,7 +21,7 @@
         "physicalDeformeties":"stab wound on lower abdomin",
         "nicknames":"Mr. T, Don T",
         "footSize": 11.5,
-        "clothesSeenIn": "Suit and tie, diamond studded rolex"
+        "clothesSeenIn": "Suit and tie, diamond studded rolex",
 	"associated":"Cynthia Bologna",
 	"incarcerated":true,
 	"numberOfCrimes":1,
@@ -30,10 +30,10 @@
         "id":234567,
         "firstName":"Cynthia",
         "lastName":"Bologna",
-	"phone":0987654321
+	"phone":0987654321,
 	"email":"cynthia@bologna.net",
 	"caseNumber":123456,
-	"age":"48"
+	"age":"48",
         "gender":"F",
         "race":"W",
 	"dateOfBirth":"10/26/73",
