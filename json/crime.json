@@ -6,7 +6,7 @@
        "description":"Aggravated Assault, Illegal Possession of firearm",
        "location":"Olive Garden, 123 Wildwood Street New York, NY",
        "dateCommited":"01/20/2020",
-       "evidence":"Gun",
+       "evidence":"Gun with Tony's fingerprints, Security camera footage",
        "victims":"George Smith, Sally Smith",
        "witnesses":11111,
        "personsOfInterest":"Tony Bologna, Cynthia Bologna",
@@ -14,6 +14,6 @@
        "users":"N/A",
        "vehicles":"Honda_Bologna",
        "isClosed":true,
-       "caseNumber":77777
+       "caseNumber":123456
     }
 ]
