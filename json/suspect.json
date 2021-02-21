@@ -4,7 +4,7 @@
         "firstName":"Tony",
         "lastName":"Bologna",
 	"phone":1234567890,
-	"email":tony@bologna.net",
+	"email":"tony@bologna.net",
 	"caseNumber":123456,
 	"age":51,
         "gender":"M",
@@ -30,11 +30,11 @@
 	"phone":0987654321,
 	"email":"cynthia@bologna.net",
 	"caseNumber":123456,
-	"age":48
+	"age":48,
         "gender":"F",
         "race":"W",
 	"dateOfBirth":"10/26/73",
-	"relationship":"Wanted for the assault of Sally Smith,"
+	"relationship":"Wanted for the assault of Sally Smith,",
 	"address":"1234 Street St, New York City, NY 22222",
         "eyeColor":"Hazel",
         "currentHairColor":"black",

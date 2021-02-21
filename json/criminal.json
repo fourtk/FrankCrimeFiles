@@ -1,12 +1,17 @@
 [
     {
         "id":123456,
-        "incarcerated":true,
         "firstName":"Tony",
         "lastName":"Bologna",
+	"phone":1234567890,
+	"email":"tony@bologna.net",
+	"caseNumber":123456,
+	"age":51,
         "gender":"M",
         "race":"W",
-        "age":51,
+	"dateOfBirth":"03/12/70",
+	"relationship":"The man who shot George Smith",
+	"address":"1234 Street St, New York City NY 22222",
         "eyeColor":"Green",
         "currentHairColor":"black",
         "naturalHairColor":"black",
@@ -17,14 +22,23 @@
         "nicknames":"Mr. T, Don T",
         "footSize": 11.5,
         "clothesSeenIn": "Suit and tie, diamond studded rolex"
+	"associated":"Cynthia Bologna",
+	"incarcerated":true,
+	"numberOfCrimes":1,
+	"allCrimes":"123456"
     }, {
         "id":234567,
-        "incarcerated":true,
         "firstName":"Cynthia",
         "lastName":"Bologna",
+	"phone":0987654321
+	"email":"cynthia@bologna.net",
+	"caseNumber":123456,
+	"age":"48"
         "gender":"F",
         "race":"W",
-        "age":48,
+	"dateOfBirth":"10/26/73",
+	"relationship":"The woman who assaulted Sally Smith",
+	"address":"1234 Street St, New York City NY 22222",
         "eyeColor":"Hazel",
         "currentHairColor":"black",
         "naturalHairColor":"black",
@@ -34,7 +48,11 @@
         "physicalDeformeties":"Burn mark on left cheek",
         "nicknames":"Mrs. T",
         "footSize": 9.5,
-        "clothesSeenIn": "White dress"
+        "clothesSeenIn": "White dress",
+	"associated":"Tony Bologna",
+	"incarcerated":true,
+	"numberOfCrimes":1,
+	"allCrimes":"123456"
     }
 
 ]
