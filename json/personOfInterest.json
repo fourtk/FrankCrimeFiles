@@ -1,6 +1,7 @@
 [
     {
-        "firstName":"Tony",
+        "poiID":1,
+	"firstName":"Tony",
 	"lastName":"Bologna",
 	"phone":1234567890,
 	"email":"tony@bologna.net",
@@ -12,7 +13,8 @@
 	"relationship":"Wanted for questioning in the George Smith shooting",
 	"address":"1234 Street St, Columbia SC, 29205"
     }, {
-        "firstName":"Cynthia",
+        "poiId":2,
+	"firstName":"Cynthia",
         "lastName":"Bologna",
 	"phone":0987654321,
 	"email":"cynthia@bologna.net",

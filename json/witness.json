@@ -1,14 +1,12 @@
 [
     {
-        "witnessId":11111,
-        "name":"Jeffery",
-        "age":"Jackson",
-        "gender":"M",
-        "race":"B",
-        "eyeColor":"brown",
-        "naturalHairColor":"black",
-        "currentHairColor":"black",
-        "associatedCase":77777,
-        "witnessTestimonySummary":"Mr. Jackson witnessed Tony Bologna shoot George Smith right after Cynthia Bologna assaulted Sally Smith"
+        "witnessId":1
+        "firstName":"Jeffery",
+        "lastName":"Jackson",
+        "phone":5555555555,
+	"email"jjack@comcast.net",
+	"caseNumber":123456
+	"address":"6437 Avenue Rd, New York City, NY, 12345",
+        "statement":"Mr. Jackson witnessed Tony Bologna shoot George Smith right after Cynthia Bologna assaulted Sally Smith"
     }
 ]

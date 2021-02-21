@@ -1,12 +1,14 @@
 [
     {
-        "firstName":"Tony",
+        "personId":1,
+	"firstName":"Tony",
 	"lastName":"Bologna",
 	"phone":1234567890,
 	"email":"tony@bologna.net",
 	"caseNumber":123456
     }, {
-        "firstName":"Cynthia",
+        "personId":2,
+	"firstName":"Cynthia",
         "lastName":"Bologna",
 	"phone":0987654321,
 	"email":"cynthia@bologna.net",

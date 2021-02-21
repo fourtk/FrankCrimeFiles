@@ -1,6 +1,7 @@
 [
     {
-        "firstName":"George",
+        "victimId":1,
+	"firstName":"George",
         "lastName":"Smith",
         "phone":1111111111,
 	"email":"georgesmith@gmail.com",
@@ -10,7 +11,8 @@
 	"ifHospital":true,
 	"isDeceased":false
     }, {
-        "firstName":"Sally",
+        "victimId":2,
+	"firstName":"Sally",
         "lastName":"Smith",
         "phone":2222222222,
 	"email":"sallysmith@gmail.com",
