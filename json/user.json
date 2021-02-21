@@ -1,0 +1,12 @@
+[
+	{
+		"name":"Douglas Williams",
+		"userName":"dw0544",
+		"password":"1WE!@wssj@#ERD",
+		"job":"Forensic Investigator",
+		"badgeNumber":423348,
+		"location":"New York, NY",
+		"cases":123456,
+		"isAdmin":true
+	}
+]

@@ -14,6 +14,7 @@
        "users":"N/A",
        "vehicles":"Honda_Bologna",
        "isClosed":true,
-       "caseNumber":123456
+       "caseNumber":123456,
+       "evidenceFile":22222
     }
 ]
